@@ -1,8 +1,5 @@
-## 
+## Olá, me chamo Giovanna, sou estudante de tecnologia e desenvolvimento front-end.
 
-Olá, me chamo Giovanna, sou estudante de tecnologia e desenvolvimento front-end.
-
-##
 <!--bloco inicial-->
 <div align="center">
  <a href="https://github.com/rsGiovanna">
