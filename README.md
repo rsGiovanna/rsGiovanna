@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna, sou estudante de tecnologia e desenvolvimento front-end.
+## Olá, me chamo Giovanna. Sou estudante de tecnologia.
 
 <!--bloco inicial-->
 <div align="center">
