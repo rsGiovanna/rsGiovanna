@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna. Sou estudante de tecnologia.
+## Olá, me chamo Giovanna. Tenho 21 anos e atualmente curso Sistemas de Informação.
 
 <!--bloco inicial-->
 <div align="center">
