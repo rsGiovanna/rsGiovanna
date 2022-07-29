@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna. Tenho 21 anos e atualmente curso Sistemas de Informação.
+## Olá, me chamo Giovanna. Tenho 22 anos e atualmente estou finalizando o curso Sistemas de Informação.
 
 <!--bloco inicial-->
 <div align="center">
