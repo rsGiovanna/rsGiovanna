@@ -1,4 +1,4 @@
-## Me chamo Giovanna Rodrigues, tenho 22 anos. Formada em Sistemas de Informação pela UNICEPLAC. 
+## Olá, me chamo Giovanna e estou na trilha para me tornar uma desenvolvedora WEB! 
 
 <!--bloco inicial-->
 <div align="center">
