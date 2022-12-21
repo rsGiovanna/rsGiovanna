@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna. Tenho 22 anos e atualmente estou finalizando o curso Sistemas de Informação.
+## Me chamo Giovanna Rodrigues, tenho 22 anos. Formada em Sistemas de Informação pela UNICEPLAC. 
 
 <!--bloco inicial-->
 <div align="center">
