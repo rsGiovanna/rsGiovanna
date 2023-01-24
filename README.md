@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna e estou na trilha para me tornar uma desenvolvedora WEB! 
+## Olá, me chamo Giovanna e estou na trilha para me tornar uma dev!
 
 <!--bloco inicial-->
 <div align="center">
