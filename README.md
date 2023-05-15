@@ -17,7 +17,6 @@
   <img align="center" alt="Giovanna-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Giovanna-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Giovanna-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Giovanna-react-native" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
   </div>
   
   ##
