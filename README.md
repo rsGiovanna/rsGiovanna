@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanna e estou na trilha para me tornar uma dev!
+## Olá, me chamo Giovanna, tenho  22 anos e sou formada em Sistemas de Informação.
 
 <!--bloco inicial-->
 <div align="center">
