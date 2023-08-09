@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, me chamo Giovanna!</h1>
-<p align = "center">Bacharel em Sistemas de Informação, estou trilhando meu caminho no desenvolvimento Front-end. </p>
+<p align = "center">Bacharel em Sistemas de Informação.</p>
 
 <!--bloco inicial-->
 <div align="center">
