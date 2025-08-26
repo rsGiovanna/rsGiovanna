@@ -36,8 +36,8 @@ Active Directory • Microsoft 365 • SharePoint • Git/GitHub
 
 <div align="center">
 
-![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsGiovanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsGiovanna&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF69B4)  
+![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsGiovanna&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF69B4&icon_color=FF69B4)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsGiovanna&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF69B4)  
 
 </div>
 
