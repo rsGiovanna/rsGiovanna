@@ -1,6 +1,6 @@
 <!-- Banner criativo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Giovanna%20Rodrigues&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=header&text=Giovanna%20Rodrigues&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 # 👋 Olá, eu sou a Giovanna!
