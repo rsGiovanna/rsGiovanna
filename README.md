@@ -66,7 +66,7 @@ GitHub • React Native • JavaScript Básico • Wireframes • Profissão UX 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" />
 </p>
 
 ✨ *"Transformando tecnologia em experiências humanas."*
