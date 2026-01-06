@@ -50,7 +50,7 @@ Atualmente, estou somando esse conhecimento técnico com a pós-graduação em *
 - 🎓 **Bacharel em Sistemas de Informação** – UNICEPLAC (2019 – 2022)
 
 **🏅 Certificações:**
-`GitHub` `React Native` `JavaScript Básico` `Wireframes` `Profissão UX 2025`
+`GitHub` `JavaScript` `Wireframes` `Profissão UX 2025`
 
 ---
 
