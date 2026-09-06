@@ -2,10 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3E5CFF&height=180&section=header&text=Giovanna%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI%20Designer%20%2B%20Front-end%20Developer&descAlignY=58&descSize=18&animation=twinkling" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=3E5CFF&center=true&vCenter=true&width=650&lines=Eu+desenho+interfaces+e+construo+os+sistemas+que+as+sustentam.;Design+Systems+%2B+React+%2B+Tailwind;Figma+%E2%86%92+C%C3%B3digo%2C+sem+perda+de+fidelidade." />
-</p>
-
 ---
 
 ## 👋 Sobre mim
