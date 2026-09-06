@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=header&text=Giovanna%20Rodrigues&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3E5CFF&height=180&section=header&text=Giovanna%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI%20Designer%20%26%20Front-end%20Developer&descAlignY=58&descSize=18&animation=twinkling" />
 </p>
 
-# 👋 Olá, eu sou a Giovanna!
-
-### 👩‍💻 UI Designer & Front-end Developer
 <p align="center">
-  "Eu desenho interfaces e construo os sistemas que as sustentam."
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=3E5CFF&center=true&vCenter=true&width=650&lines=Eu+desenho+interfaces+e+construo+os+sistemas+que+as+sustentam.;Design+Systems+%2B+React+%2B+Tailwind;Figma+%E2%86%92+C%C3%B3digo%2C+sem+perda+de+fidelidade." />
 </p>
 
-<br>
+---
+
+## 👋 Sobre mim
 
 Sou **UI Designer** e desenvolvedora **Front-end**, com base técnica em TI. Minha experiência com suporte e infraestrutura me deu uma visão clara de como sistemas funcionam por trás da interface.
 
@@ -19,30 +18,37 @@ Hoje uno essa base técnica com **Design de Interfaces** e desenvolvimento em **
 
 ## 🛠️ Tech & Design Stack
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git&theme=dark" />
+</p>
 
-**Design & Prototipação** <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireframing-404040?style=for-the-badge" />
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
 
-<br><br>
+---
 
-**Frontend & Mobile** <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+## 📊 GitHub Stats
 
-<br><br>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=rsGiovanna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E5CFF&text_color=848d97&icon_color=3E5CFF" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsGiovanna&layout=compact&hide_border=true&bg_color=00000000&title_color=3E5CFF&text_color=848d97&langs_count=6" />
+</td>
+</tr>
+</table>
 
-**Infraestrutura & Ferramentas** <br>
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rsGiovanna&hide_border=true&background=00000000&ring=3E5CFF&fire=B4FF6B&currStreakLabel=3E5CFF" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rsGiovanna&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+</p>
 
 ---
 
@@ -58,20 +64,18 @@ Hoje uno essa base técnica com **Design de Interfaces** e desenvolvimento em **
 
 ## 🌐 Vamos nos conectar!
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/giovanna-rs/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/rds_gio" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3E5CFF&height=100&section=footer" />
 </p>
