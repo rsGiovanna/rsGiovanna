@@ -4,17 +4,16 @@
 
 # 👋 Olá, eu sou a Giovanna!
 
-### 👩‍💻 Analista de TI | UX/UI Designer em Transição
-
+### 👩‍💻 UI Designer & Front-end Developer
 <p align="center">
-  "Não quero apenas desenhar telas, quero construir soluções unindo lógica e usabilidade."
+  "Eu desenho interfaces e construo os sistemas que as sustentam."
 </p>
 
 <br>
 
-Sou **Analista de TI** migrando para a área de **Produtos Digitais**. Minha experiência com suporte e infraestrutura me deu uma visão clara de como sistemas funcionam nos bastidores. 
+Sou **UI Designer** e desenvolvedora **Front-end**, com base técnica em TI. Minha experiência com suporte e infraestrutura me deu uma visão clara de como sistemas funcionam por trás da interface.
 
-Atualmente, estou somando esse conhecimento técnico com a pós-graduação em **UX/UI Design**. Meu objetivo é atuar na interseção entre **Dev e Design**, criando interfaces que sejam tecnicamente viáveis e incrivelmente intuitivas.
+Hoje uno essa base técnica com **Design de Interfaces** e desenvolvimento em **React**, com foco em **design systems** e consistência visual em escala.
 
 ---
 
@@ -32,6 +31,9 @@ Atualmente, estou somando esse conhecimento técnico com a pós-graduação em *
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 <br><br>
 
