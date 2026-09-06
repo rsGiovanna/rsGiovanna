@@ -22,32 +22,12 @@ Hoje uno essa base técnica com **Design de Interfaces** e desenvolvimento em **
 <img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,git&theme=dark" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=rsGiovanna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E5CFF&text_color=848d97&icon_color=3E5CFF" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsGiovanna&layout=compact&hide_border=true&bg_color=00000000&title_color=3E5CFF&text_color=848d97&langs_count=6" />
-</td>
-</tr>
-</table>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=rsGiovanna&hide_border=true&background=00000000&ring=3E5CFF&fire=B4FF6B&currStreakLabel=3E5CFF" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rsGiovanna&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
